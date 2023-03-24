@@ -121,6 +121,9 @@ a{
    color: #fff;
    padding: 10px;
 }
+header a {
+    text-decoration: none;
+}
 header a:hover{
     background-color: #fff;
     border-radius: 30px;
